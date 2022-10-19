@@ -1,9 +1,10 @@
 # AutoBatFarm
 A farm to automatically farm BAT crypto in the brave browser.
 
-Warning: I do not know if Brave has a rule against this so use at your own risk.
-UPDATE: it is breaking Brave's rules to use this so I dont recommend using.
+## Warning
+Use at your own risk, turns out this is breaking Brave's rules to use this so I dont recommend using.
 
+## Other important info
 This is not a cryptominer it's just an auto ad viewer for the Brave browser so this can run on any device that you can install Brave and Python 3 on.
 
 To install, install Brave browser, a version of python 3, the latest release, and when you install it all double click the setup.bat to install all the needed packages.
